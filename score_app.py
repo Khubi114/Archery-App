@@ -1,6 +1,6 @@
 """
 Archery Score Recording App
-Run: python archery_score_app.py
+Run: python score_app.py
 Requires: Python 3.8+ with tkinter (standard library)
 """
 
